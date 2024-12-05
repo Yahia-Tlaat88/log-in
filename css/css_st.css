@@ -1,0 +1,38 @@
+/* log in page */
+body{
+    background-color: #24353f;
+}
+.container{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.row h1{
+    color: #17A2B8;
+    font-size: 40px;
+    font-weight: 500;
+}
+.row p{
+    color: white;
+}
+.row a{
+    color: white;
+    transition: all .3s;
+}
+.row a:hover{
+    color: #17A2B8;
+}
+input{
+    background-color: transparent;
+    color: white;
+    border-color:#51778d ;
+}
+
+.row button{
+    background-color: transparent;
+    color: #17A2B8;
+    transition: all .3s;
+}
+.row button:hover{
+
+    background-color: #17A2B8;
+    color:white;
+}
